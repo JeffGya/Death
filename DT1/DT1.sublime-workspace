@@ -1,0 +1,673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"SCOREAPP"
+			],
+			[
+				"Sc",
+				"schedule"
+			],
+			[
+				"sc",
+				"schedule"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"Font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"var",
+				"variant"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"the",
+				"the_url"
+			],
+			[
+				"wp",
+				"wp_enqueue_script"
+			],
+			[
+				"nivo",
+				"nivo-slider"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"boder",
+				"border-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"fi",
+				"first-of-type"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"B",
+				"body"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"v",
+				"video	Tag"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"my",
+				"mysql_close"
+			],
+			[
+				"sub",
+				"subject_count"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"sel",
+				"sel_page"
+			],
+			[
+				"sel_",
+				"sel_page"
+			],
+			[
+				"se",
+				"sel_subject"
+			],
+			[
+				"confim",
+				"confirm_query"
+			],
+			[
+				"s",
+				"subjects"
+			],
+			[
+				"res",
+				"result_set"
+			],
+			[
+				"subject",
+				"subject_id"
+			],
+			[
+				"Fr",
+				"FROM"
+			],
+			[
+				"subjec",
+				"subject_id"
+			],
+			[
+				"su",
+				"subj"
+			],
+			[
+				"subje",
+				"subject"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"db",
+				"db_connect"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"msql",
+				"msql_error"
+			],
+			[
+				"imag",
+				"background-image"
+			],
+			[
+				"san",
+				"sans-serif"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ff",
+				"ffffff"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jeffrey/Desktop/Deeltoets1/js/scoreapp.js",
+		"/Users/Jeffrey/Desktop/Deeltoets1/index.html",
+		"/Users/Jeffrey/Documents/FED2/Les 3/Werkopdrachten/Voorbeelden/WebAppSkeleton.0.3/static/js/app.js",
+		"/Users/Jeffrey/Desktop/ScoreApp/game.html",
+		"/Users/Jeffrey/Desktop/skeleton/ScoreApp/schedule.html",
+		"/Users/Jeffrey/Documents/FED2/Les 3/Werkopdrachten/Voorbeelden/WebAppSkeleton.0.1/static/js/app.js",
+		"/Users/Jeffrey/Desktop/schedule.html",
+		"/Users/Jeffrey/Desktop/game.html",
+		"/Users/Jeffrey/Desktop/ranking.html",
+		"/Users/Jeffrey/Desktop/skeleton/js/scoreapp.js",
+		"/Users/Jeffrey/Desktop/skeleton/index.html",
+		"/Users/Jeffrey/Desktop/skeleton/js/scoreApp.js",
+		"/Users/Jeffrey/Desktop/skeleton/scoreApp.js",
+		"/Users/Jeffrey/Desktop/cmdgeo/src/cmdgeo-0.1.js",
+		"/Users/Jeffrey/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Jeffrey/Documents/FrontEnd2/Les 1/les1.js",
+		"/Users/Jeffrey/Documents/FrontEnd2/Les 1/index.html",
+		"/Users/Jeffrey/Documents/FrontEnd2/Les 1/Les 1.js",
+		"/Users/Jeffrey/Documents/FED2/Les 1/Les1.md",
+		"/Users/Jeffrey/Desktop/Site/contact.php",
+		"/Users/Jeffrey/Desktop/Site/prijzen.html",
+		"/Users/Jeffrey/Desktop/Site/behandelingen.html",
+		"/Users/Jeffrey/Desktop/Site/index.html",
+		"/Users/Jeffrey/Desktop/Site/css/style.css",
+		"/Users/Jeffrey/Desktop/New Folder With Items/contact.php",
+		"/Users/Jeffrey/Desktop/New Folder With Items/prijzen.html",
+		"/Users/Jeffrey/Desktop/New Folder With Items/index.html",
+		"/Users/Jeffrey/Desktop/New Folder With Items/behandelingen.html",
+		"/Users/Jeffrey/Desktop/prijzen.html",
+		"/Users/Jeffrey/Desktop/behandelingen.html",
+		"/Users/Jeffrey/Desktop/contact.html",
+		"/Users/Jeffrey/Desktop/index.html",
+		"/Users/Jeffrey/Downloads/Colonoscopy.tmTheme",
+		"/Users/Jeffrey/Downloads/Carbonnight.tmTheme",
+		"/Users/Jeffrey/Desktop/Randoms Site Closing page/index.html",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/5a4b6c53-d50b-4c87-92f0-e118d1977c5b/domains/jokg.nl/public_html/wp-content/themes/gridthemeresponsive/style.css",
+		"/Users/Jeffrey/Downloads/oz-handicraft-bt/fonts.css",
+		"/Volumes/MAC HDD/HvA/2. Verdieping 1/Blok 3/Vorm en Interactie/Vorm Herkansing/vorm site/choose5.html",
+		"/Volumes/MAC HDD/HvA/2. Verdieping 1/Blok 3/Vorm en Interactie/Vorm Herkansing/vorm site/keuze4.html",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/fz3temp-1/style.css",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/fz3temp-1/page.php",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/fz3temp-1/style 2.css",
+		"/Users/Jeffrey/Desktop/vorm/info.html",
+		"/Users/Jeffrey/Desktop/vorm/choose2.html",
+		"/Users/Jeffrey/Desktop/vorm/keuze2.html",
+		"/Users/Jeffrey/Desktop/Vorm Site/choose3.html",
+		"/Users/Jeffrey/Desktop/Vorm Site/choose2.html",
+		"/Users/Jeffrey/Desktop/Vorm Site/choose1.html",
+		"/Users/Jeffrey/Desktop/html5blank-master-child/woocommerce.php",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/fz3temp-1/style 3.css",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/fz3temp-1/wp-config 2.php",
+		"/Users/Jeffrey/Desktop/Vorm Site/keuze4.html",
+		"/Users/Jeffrey/Desktop/Vorm Site/keuze2.html",
+		"/Users/Jeffrey/Desktop/Vorm Site/keuze3.html",
+		"/Users/Jeffrey/Desktop/functions.php",
+		"/Users/Jeffrey/Desktop/woocommerce.php",
+		"/Users/Jeffrey/Desktop/style.css",
+		"/Volumes/MAC HDD/HvA/2. Verdieping 1/Blok 3/Front-end Development/Front-End | eindopdracht/MaakOpdracht1/hide:show.js",
+		"/Users/Jeffrey/Desktop/Front-End/MaakOpdracht1/style/style.css",
+		"/Volumes/MAC HDD/HvA/2. Verdieping 1/Blok 3/Front-end Development/Front-End | eindopdracht/MaakOpdracht1/hide&show JS",
+		"/Volumes/MAC HDD/HvA/2. Verdieping 1/Blok 3/Front-end Development/Front-End | eindopdracht/MaakOpdracht1/artikel.html",
+		"/Users/Jeffrey/Desktop/Front-End/MaakOpdracht1/style/article.css",
+		"/Users/Jeffrey/Desktop/Front-End/MaakOpdracht1/style/form.css",
+		"/Users/Jeffrey/Desktop/Front-End/MaakOpdracht1/artikel.html",
+		"/Users/Jeffrey/Desktop/Front-End/MaakOpdracht1/formulier.html",
+		"/Users/Jeffrey/Desktop/Front-End/MaakOpdracht1/javascript/mordernizer.js",
+		"/Users/Jeffrey/Desktop/Front-End/Eindopdracht/index.html",
+		"/Users/Jeffrey/Desktop/uploadtv/stylesheets/style.css",
+		"/Users/Jeffrey/Desktop/uploadtv/videos.html",
+		"/Volumes/MAC HDD/HvA/2. Verdieping 1/Project 5/Prototype/uploadTV web files/stylesheets/uploadtheme.css",
+		"/Volumes/MAC HDD/HvA/2. Verdieping 1/Blok 3/Front-end Development/Eindopdracht/index.html",
+		"/Volumes/MAC HDD/HvA/2. Verdieping 1/Blok 3/Front-end Development/MaakOpdracht1/artikel.html",
+		"/Volumes/MAC HDD/HvA/2. Verdieping 1/Blok 3/Front-end Development/MaakOpdracht1/formulier.html",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/fz3temp-1/header.php",
+		"/Users/Jeffrey/Desktop/uploadtv/stylesheets/carousel/style.css",
+		"/Users/Jeffrey/Desktop/uploadtv/live.html",
+		"/Users/Jeffrey/Desktop/uploadtv/index.html",
+		"/Users/Jeffrey/Desktop/uploadtv/talk.html",
+		"/Users/Jeffrey/Desktop/uploadtv/reportages.html",
+		"/Users/Jeffrey/Desktop/uploadtv/videos2.html",
+		"/Users/Jeffrey/Desktop/uploadtv/hangouts.html",
+		"/Users/Jeffrey/Desktop/uploadtv/stylesheets/jquery.mobile-1.3.0.css",
+		"/Users/Jeffrey/Desktop/uploadtv/stylesheets/uploadtheme.css",
+		"/Users/Jeffrey/Downloads/CircularContentCarousel/index.html",
+		"/Users/Jeffrey/Desktop/uploadtv/resources/jquery.mobile-1.3.0.js",
+		"/Users/Jeffrey/Desktop/uploadtv/resources/jquery-1.9.1.min.js",
+		"/Users/Jeffrey/Desktop/uploadtv/style.css",
+		"/Users/Jeffrey/Desktop/UploadTV/index.html",
+		"/Users/Jeffrey/Desktop/UploadTV/style.css",
+		"/Users/Jeffrey/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/Jeffrey/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/fz3temp-1/index 2.php",
+		"/Users/Jeffrey/Documents/HvA/2. Verdieping 1/Blok 3/Front-end Development/MaakOpdracht1/style/form.css",
+		"/Users/Jeffrey/Documents/HvA/2. Verdieping 1/Blok 3/Front-end Development/MaakOpdracht1/style/article.css",
+		"/Users/Jeffrey/Documents/HvA/2. Verdieping 1/Blok 3/Front-end Development/MaakOpdracht1/formulier.html",
+		"/Users/Jeffrey/Documents/HvA/2. Verdieping 1/Blok 3/Front-end Development/MaakOpdracht1/artikel.html",
+		"/Users/Jeffrey/Documents/HvA/2. Verdieping 1/Blok 3/Front-end Development/MaakOpdracht1/style/style.css",
+		"/Users/Jeffrey/Documents/HvA/2. Verdieping 1/Blok 3/Front-end Development/Week 2/form.html",
+		"/Users/Jeffrey/Documents/HvA/2. Verdieping 1/Blok 3/Front-end Development/Week 2/video.html",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/9c7076c6-3b25-43e5-bfe9-a570f6a82022/public/sites/www.randomsapparel.com/.htaccess",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/4cb117be-74c4-418c-808e-708de0cc0da1/public/sites/www.jokg.nl/test/wp-content/themes/quotez/style.css",
+		"/Users/Jeffrey/Desktop/cms/content.php",
+		"/Users/Jeffrey/Desktop/cms/new_subject.php",
+		"/Users/Jeffrey/Desktop/cms/inc/functions.php",
+		"/Users/Jeffrey/Desktop/cms/create_subject.php",
+		"/Users/Jeffrey/Desktop/cms/inc/db-connect.php",
+		"/Users/Jeffrey/Desktop/cms/inc/config.php",
+		"/Users/Jeffrey/Desktop/cms/style/style.css",
+		"/Users/Jeffrey/Desktop/cms/inc/header.php",
+		"/Users/Jeffrey/Desktop/php.ini",
+		"/Users/Jeffrey/Desktop/phpinfo.php",
+		"/Users/Jeffrey/Desktop/cms/inc/constants.php",
+		"/Users/Jeffrey/Desktop/cms/style/public.css",
+		"/Users/Jeffrey/Desktop/databases.php",
+		"/Users/Jeffrey/Desktop/CMS/function.php",
+		"/Users/Jeffrey/Desktop/CMS/config.php",
+		"/Users/Jeffrey/Documents/HvA/2. Verdieping 1/Blok 2/Server Side Scripting/6_sessies/login/index.php",
+		"/Users/Jeffrey/Downloads/Deeltoets 2/inc/template.inc.php",
+		"/Users/Jeffrey/Downloads/Deeltoets 2/inc/config.inc.php",
+		"/Users/Jeffrey/Downloads/Deeltoets 2/inc/functions.inc.php",
+		"/Users/Jeffrey/Downloads/Deeltoets 2/index.php",
+		"/Users/Jeffrey/Downloads/Deeltoets 2/menu.php",
+		"/Users/Jeffrey/Serverside/serverside/6_sessies/login/index.php",
+		"/Users/Jeffrey/Serverside/serverside/6_sessies/inc/config.inc.php",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/183837e8-5e7b-4e3b-844b-7aaeeafec5f0/var/www/wordpress/wp-content/themes/wordpress-bootstrap/style.css",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/183837e8-5e7b-4e3b-844b-7aaeeafec5f0/var/www/wordpress/wp-content/themes/viewportindustries-Starkers-689d7e6/editor-style.css",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/183837e8-5e7b-4e3b-844b-7aaeeafec5f0/var/www/wordpress/wp-content/themes/viewportindustries-Starkers-689d7e6/css/layout.css",
+		"/Users/Jeffrey/Desktop/.htacces"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transparecy",
+			"GEOMAP",
+			"SPACE",
+			"+",
+			"_start_interval",
+			"SANDBOX",
+			"personn",
+			"Person",
+			"Persoon",
+			"persoon",
+			"border",
+			"border-radius",
+			"a ",
+			"variant",
+			"var",
+			"border-radius",
+			"#10707E",
+			".share__count",
+			".share__btn",
+			".share_size_large > .share__btn",
+			"p",
+			"touch",
+			"collapsible",
+			"description",
+			"#% ",
+			"h3",
+			";\n",
+			"h4",
+			"data-theme",
+			">\n",
+			"<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title>Upload TV proptype</title>\n    <link rel=\"stylesheet\" href=\"stylesheets/jquery.mobile-1.3.0.css\">\n    <link rel=\"stylesheet\" href=\"stylesheets/uploadtheme.css\">\n    <link rel=\"stylesheet\" href=\"stylesheets/style.css\">\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"stylesheets/carousel/style.css\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"stylesheets/carousel/jquery.jscrollpane.css\" media=\"all\" />\n\n    <!-- IOS Safari options -->\n    <!--Specify IOS app icon for the webapp-->\n    <!--<link rel=\"apple-touch-icon\" href=\"/custom_icon.png\"/>-->\n    <!--Specify startup image for the webapp-->\n    <!-- <link rel=\"apple-touch-startup-image\" href=\"/startup.png\">-->\n    <!--Hide safari adress bar in webapp mode-->\n    <meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n    <!-- Change color of the status bar in webapp mode-->\n    <meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\" />\n  </head>\n  <body>\n    <div data-role=\"page\" data-theme=\"a\">\n        <header data-role=\"header\" data-theme=\"a\">\n\n            <a href=\"#defaultpanel\" data-role=\"button\" data-inline=\"true\" data-icon=\"home\" data-iconpos=\"notext\" data-direction=\"reverse\" class=\"ui-btn-left ui-shadow ui-btn-corner-all ui-btn-icon-notext\" data-corners=\"true\" data-shadow=\"true\" data-iconshadow=\"true\" data-wrapperels=\"span\" title=\"Home\" data-theme=\"a\">\n                <span class=\"ui-btn-inner\">\n                    <span class=\"ui-btn-text\">Menu</span>\n                    <span class=\"ui-icon ui-icon-home ui-icon-shadow\">&nbsp;</span>\n                </span>\n            </a>\n            <h1>Programma overzicht</h1>\n        </header>\n        <section data-role=\"content\">\n                <a href=\"live.html\">Live Show <span class=\"description\"></span></a>\n                <a href=\"#\">Talk Show <span class=\"description\"></span></a>\n                <a href=\"#\">Found Videos <span class=\"description\"></span></a>\n                <a href=\"#\">Reportages <span class=\"description\"></span></a>\n                <a href=\"#\">UploadTV Hangouts <span class=\"description\"></span></a>\n        </section><!-- ca-container -->\n\n        <!-- defaultpanel  -->\n        <aside data-role=\"panel\" id=\"defaultpanel\" data-theme=\"a\">\n          <!-- <section class=\"panel-content\"> -->\n            <ul data-role=\"listview\" data-inset=\"true\" data-theme=\"a\">\n                <li data-role=\"list-divider\" role=\"heading\" class=\"ui-li ui-li-divider ui-bar-d\">Mijn UploadTV</li>\n                <li data-icon=\"home\"><a href=\"#\">My UploadTV</a></li>\n            </ul>\n            <ul data-role=\"listview\" data-inset=\"true\" data-theme=\"a\">\n                <li data-role=\"list-divider\" role=\"heading\" class=\"ui-li ui-li-divider ui-bar-d\">Menu Bar</li>\n\n                <li data-icon=\"grid\"><a href=\"#\">Shows</a></li>\n                <li data-icon=\"grid\"><a href=\"live.html\">Videos</a></li>\n            </ul>\n          <!-- </section> --> <!-- /content wrapper for padding -->\n        </aside><!-- /defaultpanel -->\n    </div>\n\n    <script src=\"resources/jquery-1.9.1.min.js\"></script>\n    <script src=\"resources/jquery.mobile-1.3.0.js\"></script>\n  </body>\n</html>",
+			"data-theme",
+			"ui-panel",
+			"\"b\"",
+			"\"c\"",
+			"theme",
+			"data-theme",
+			"display",
+			"panel",
+			"button",
+			"bars",
+			"data-ici",
+			"footer",
+			"header",
+			"upload",
+			"toevoegen",
+			"fetch",
+			"handelen",
+			"Link",
+			"sel_page",
+			"sel_subj",
+			"result",
+			"row",
+			"CMS_SSS",
+			"';",
+			"	text-align: center;",
+			"default",
+			"$total_quantity = $product_obj->quantity;",
+			".wpsc_checkout_table.table-1",
+			".wpsc_checkout_table.table-2",
+			".wpsc_checkout_table.table-2 {background-color:#dfb781;width:100%;margin-bottom:20px;box-shadow:inset 0 0 3px rgba(0,0,0,0.4);padding:5px;}",
+			"#checkout_page_container table.checkout_cart tr td, #content #checkout_page_container table.checkout_cart tr td",
+			".wpsc_checkout_table td",
+			" #checkout_page_container table.checkout_cart tr td, #content #checkout_page_container table.checkout_cart tr td",
+			" #checkout_page_container table.checkout_cart tr td, #content #checkout_page_container table.checkout_cart tr td\"",
+			"social",
+			"socail",
+			"social",
+			"header",
+			"faceb",
+			"#3f3e3e",
+			"#656464",
+			"#",
+			"logo",
+			"/*",
+			"#4b93ad",
+			"#10707E",
+			"#549eb9",
+			"solid",
+			"<div id=\"main-container\">",
+			"grey"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true
+}
