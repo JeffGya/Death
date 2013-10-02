@@ -1,11 +1,9 @@
-//Global scope
 //Created SCOREAPP Namespace 
 var SCOREAPP = SCOREAPP || {};
 
 (function () {
-	//Local scope
 
-	// Data objecten
+	// Data
 	SCOREAPP.schedule = {
 		title:'Pool A - Schedule',
 		items: [
@@ -65,37 +63,36 @@ var SCOREAPP = SCOREAPP || {};
 
 	//Controller Init
 	SCOREAPP.controller = {
-		isLoaded: true,
-		init: function () {
+		start: function () {
 			//log to check if the SCOREapplication has come this far
-			console.log("Start SCOREapplicatie");
+			console.log("Start score applicatie");
 
 			//pull data: schedule, game, ranking
-			SCOREAPP.router.init();
+			SCOREAPP.router.start();
 		}
 	};
 
 	//Router
 	SCOREAPP.router = {
-		init: function () {
+		start: function () {
 	  		routie({
 			    '/schedule': function() {
-			    	SCOREAPP.page.render('schedule');
+			    	SCOREAPP.content.render('schedule');
 				},
 			    '/ranking': function() {
-			    	SCOREAPP.page.render('ranking');
+			    	SCOREAPP.content.render('ranking');
 			    },
 
 			    '/game': function() {
-			    	SCOREAPP.page.render('game');
+			    	SCOREAPP.content.render('game');
 			    },
 			    '*': function() {
-			    	SCOREAPP.page.render('schedule');
+			    	SCOREAPP.content.render('schedule');
 			    }
 			});
 		},
 
-		change: function () {
+		different: function () {
             var route = window.location.hash.slice(2),
                 sections = qwery('section'),
                 section = qwery('[data-route=' + route + ']')[0];
@@ -116,25 +113,8 @@ var SCOREAPP = SCOREAPP || {};
 		}
 	};
 
-
-	//Page
-	SCOREAPP.page = {
-		schedule: function(){
-			Transparency.render(qwery('[data-route=schedule]')[0], SCOREAPP.schedule);
-			SCOREAPP.router.change();
-		},
-		ranking: function(){
-			Transparency.render(qwery('[data-route=ranking]')[0], SCOREAPP.ranking);
-			SCOREAPP.router.change();
-		},
-		game: function(){
-			Transparency.render(qwery('[data-route=game]')[0], SCOREAPP.game);
-			SCOREAPP.router.change();
-		}
-	};
-
 	// Pages
-	SCOREAPP.page = {
+	SCOREAPP.content = {
 		render: function (route) {
 			var data;
 			switch (route){
@@ -155,15 +135,15 @@ var SCOREAPP = SCOREAPP || {};
 			}
 
 			Transparency.render(qwery('[data-route='+route+']')[0], data);
-			SCOREAPP.router.change();
+			SCOREAPP.router.different();
 		}
 	}
 
 
 	//DOM ready code
 	domready(function(){
-		//Start SCOREapplication
-		SCOREAPP.controller.init();
+		//start SCOREapplication
+		SCOREAPP.controller.start();
 		console.log("dom is ready")
 	});
 
