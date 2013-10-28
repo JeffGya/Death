@@ -18,105 +18,70 @@
 	</nav>
 
 	<section data-route="schedule" class="active">
-		<header>
-			<h1 data-bind="title"></h1>
-			<p data-bind="description"></p>
-		</header>
-		<table >
-			<tr>
-				<!-- Deze informatie wordt niet met javascript binnen gehaald in deze web app, omdat de gebruikte elementen niet herhaald moeten worden voor andere informatie. -->
-                <th>Monday 18 March</th>
-                <th>Team</th>
-                <th>Result</th>
-                <th>Team</th>
-			</tr>
-			<tbody data-bind="items">
-				<tr>
-					<!--Vanaf hier wordt javascript weer binnen geladen. -->
-					<td data-bind="date"></td>
-					<td data-bind="team1"></td>
-					<td> <span data-bind="team1Score"></span> - <span data-bind="team2Score"></span></td>
-					<td data-bind="team2"></td>
-				</tr>
-			</tbody>
-		</table>
-	</section>
-	
-	<section data-route="ranking">
-		<header>
-			<h1 data-bind="title"></h1>
-			<p data-bind="description"></p>
-		</header>
 		<table>
-			<tr>
-				<th>Team</th>
-                <th>W</th>
-                <th>L</th>
-                <th>Points won</th>
-                <th>Points lost</th>
-                <th>+/-</th>
-			</tr>
-			<tbody data-bind="items">
+			<thead>
 				<tr>
-					<td data-bind="team"></td>
-					<td data-bind="win"></td>
-					<td data-bind="lost"></td>
-					<td data-bind="sw"></td>
-					<td data-bind="sl"></td>
-					<td data-bind="pw"></td>
-					<td data-bind="pl"></td>
+					<th>Team 1</th>
+					<th>Score</th>
+					<th>Team 2</th>
+					<th>Game winner</th>
+					<th>Update Game Score</th>
+				</tr>
+			</thead>
+			<tbody data-bind="objects">
+				<tr>
+					<td data-bind="team_1"><span data-bind="name"></span></td>
+					<td><span data-bind="team_1_score"></span> - <span data-bind="team_2_score"></span></td>
+					<td data-bind="team_2"><span data-bind="name"></span></td>
+					<td data-bind="winner"><span data-bind="name"></span></td>
+					<td> <a data-bind="resource_uri"></a></td>
 				</tr>
 			</tbody>
 		</table>
 	</section>
 
-	<section data-route="game">
-		<!--<header>
-			<h1 data-bind="title"></h1>
-			<p data-bind="description"></p>
-		</header>-->
-
+	<section data-route='ranking'>
 		<header>
-			<h1>Pool A - Score: Boomsquad vs. Burning Snow</h1>
+			<h1>Ranking ranking A</h1>
+			<p>Dit zijn de rankings voor ranking A</p>
 		</header>
 		<table>
-			<tr>
-				<th>Team</th>
-				<th>Result</th>
-				<th>Team</th>
-			</tr>
-
-			<tr>
-				<td class="winner">Boomsquad</td>
-				<td>15 - 8</td>
-				<td>Burning Snow</td>
-			</tr>
-		</table>
-
-		<table>
-			<tr>
-				<th>Score</th>
-				<th>Team</th>
-				<th>Points</th>
-				<th>Team</th>
-			</tr>
-		<tbody data-bind="items">
-			<tr>
-				<td data-bind="score"></td>
-				<td data-bind="team1"></td>
-				<td><span data-bind="team1Score"></span> - <span data-bind="team2Score"></span></td>
-				<td data-bind="team2"></td>
-			</tr>
-		</tbody>
+			<thead>
+				<tr>
+					<th>Team</th>
+					<th>W</th>
+					<th>L</th>
+					<th>GS</th>
+					<th>GA</th>
+					<th>+/-</th>
+				</tr>
+			</thead>
+			<tbody data-bind="standings">
+				<tr>
+					<td data-bind="team"><span data-bind="name"></span></td>
+					<td data-bind="wins"></td>
+					<td data-bind="losses"></td>
+					<td data-bind="points_scored"></td>
+					<td data-bind="points_allowed"></td>
+					<td data-bind="plus_minus"></td>
+				</tr>
+			</tbody>
 		</table>
 	</section>
 
+	<section data-route='game'>
+		<header>
+			<h1></h1>
+		</header>
+
+	</section>
 
 	<!-- Libraries worden hier toegevoegd aan de applicatie. -->
 	<script src="static/js/lib/routie.min.js"></script>
 	<script src="static/js/lib/ready.min.js" type="text/javascript"></script>
 	<script src="static/js/lib/qwery.min.js" type="text/javascript"></script>
 	<script src="static/js/lib/transparancy.min.js" type="text/javascript"></script>
+	<script src="static/js/lib/jxs.min.js" type="text/javascript"></script>
 
 	<!-- Application Javascript -->
 	<script src="static/js/scoreapp.js"></script>

@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"data",
+				"data-route"
+			],
+			[
+				"leag",
+				"leaguevine_url"
+			],
+			[
+				"le",
+				"leaguevine"
+			],
+			[
+				"XML",
+				"xmlHttpReqeust"
+			],
+			[
 				"S",
 				"SCOREAPP"
 			],
@@ -319,6 +335,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2301,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/scoreapp.js",
+			"settings":
+			{
+				"buffer_size": 3675,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -360,6 +392,14 @@
 	},
 	"file_history":
 	[
+		"/Users/Jeffrey/Documents/FrontEnd2/DT1/static/js/lib/spin.min.js",
+		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/5a4b6c53-d50b-4c87-92f0-e118d1977c5b/public_html/smokepalace/js/js.js",
+		"/Users/Jeffrey/Documents/FrontEnd2/DT1/static/js/scoreapp.js",
+		"/Users/Jeffrey/Documents/FrontEnd2/DT1/index.html",
+		"/Users/Jeffrey/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/Jeffrey/Desktop/DT1/static/css/style.css",
+		"/Users/Jeffrey/Desktop/DT1/static/js/scoreapp.js",
+		"/Users/Jeffrey/Desktop/DT1/index.html",
 		"/Users/Jeffrey/Desktop/Deeltoets1/js/scoreapp.js",
 		"/Users/Jeffrey/Desktop/Deeltoets1/index.html",
 		"/Users/Jeffrey/Documents/FED2/Les 3/Werkopdrachten/Voorbeelden/WebAppSkeleton.0.3/static/js/app.js",
@@ -479,15 +519,7 @@
 		"/Users/Jeffrey/Documents/HvA/2. Verdieping 1/Blok 2/Server Side Scripting/6_sessies/login/index.php",
 		"/Users/Jeffrey/Downloads/Deeltoets 2/inc/template.inc.php",
 		"/Users/Jeffrey/Downloads/Deeltoets 2/inc/config.inc.php",
-		"/Users/Jeffrey/Downloads/Deeltoets 2/inc/functions.inc.php",
-		"/Users/Jeffrey/Downloads/Deeltoets 2/index.php",
-		"/Users/Jeffrey/Downloads/Deeltoets 2/menu.php",
-		"/Users/Jeffrey/Serverside/serverside/6_sessies/login/index.php",
-		"/Users/Jeffrey/Serverside/serverside/6_sessies/inc/config.inc.php",
-		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/183837e8-5e7b-4e3b-844b-7aaeeafec5f0/var/www/wordpress/wp-content/themes/wordpress-bootstrap/style.css",
-		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/183837e8-5e7b-4e3b-844b-7aaeeafec5f0/var/www/wordpress/wp-content/themes/viewportindustries-Starkers-689d7e6/editor-style.css",
-		"/private/var/folders/_n/5yff1kv54xq5_x9ssps2f9fc0000gn/T/183837e8-5e7b-4e3b-844b-7aaeeafec5f0/var/www/wordpress/wp-content/themes/viewportindustries-Starkers-689d7e6/css/layout.css",
-		"/Users/Jeffrey/Desktop/.htacces"
+		"/Users/Jeffrey/Downloads/Deeltoets 2/inc/functions.inc.php"
 	],
 	"find":
 	{
@@ -498,6 +530,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -505,6 +538,31 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pool",
+			"mainTitle",
+			"pool",
+			"leaguevine",
+			"films",
+			"movie",
+			"init",
+			"controller",
+			"render",
+			"routie",
+			"different",
+			"change",
+			"page",
+			"Start",
+			"init",
+			"page",
+			"render",
+			"route",
+			"routie",
+			"route",
+			"page3",
+			"page2",
+			"page1",
+			"APP",
+			"qwery",
 			"transparecy",
 			"GEOMAP",
 			"SPACE",
@@ -595,16 +653,71 @@
 		[
 		],
 		"reverse": false,
-		"show_context": true,
-		"use_buffer2": true,
+		"show_context": false,
+		"use_buffer2": false,
 		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 790.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "static/js/scoreapp.js",
+					"settings":
+					{
+						"buffer_size": 3675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 341.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -639,6 +752,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 27.0
+	},
 	"replace":
 	{
 		"height": 64.0
@@ -668,6 +785,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 191.0,
+	"side_bar_width": 201.0,
 	"status_bar_visible": true
 }
