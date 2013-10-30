@@ -1,18 +1,27 @@
 //Created SCOREAPP Namespace 
 var SCOREAPP = SCOREAPP || {};
 
+/*
+	Leaguevine acces token
+    {
+		expire_in: 157680000,
+		scope: "universal",
+		access_token: "e5fd54ec42",
+		token_type: "bearer"
+	}
+*/
+
 (function () {
 	
 	// Data
 	SCOREAPP.schedule = {
 		title: "Schedule",
 		start: function() {
-			jx.load('https://api.leaguevine.com/v1/games/?pool_id=19219&access_token=9e0cf40d3d', function(data) {
+			jx.load('https://api.leaguevine.com/v1/games/?pool_id=19221&access_token=e5fd54ec42', function(data) {
 				var data = JSON.parse(data);
-				console.log(data);
-				var directives = { //Verander de manier van data-binden
+				var directives = {
 					objects: { resource_uri: {
-						href: function(){
+						href: function () { 
 							return this.resource_uri;
 						},
 						html: function(){
@@ -21,36 +30,48 @@ var SCOREAPP = SCOREAPP || {};
 					}}
 				};
 			Transparency.render(qwery('[data-route=schedule]')[0], data, directives);
-			},'text','get'); // Haal data op als text.
-		}
+			},'text','get');
+		},
+		post: function() {
+                                        
+                // Plain JavaScript POST method.
+                var type = 'POST';
+                var url = 'https://api.leaguevine.com/v1/game_scores/';
+                var postData = JSON.stringify({
+                game_id: '127159',
+                team_1_score: '2',
+                team_2_score: '4',
+                is_final: 'False'
+                });
+                
+                // Create request
+                var http = new XMLHttpRequest();
+                http.open(type,url,true);
+                http.setRequestHeader('Content-type','application/json');
+                http.setRequestHeader('Authorization','bearer 40e50065ad');
+                http.send(postData);
+        }
 	};
 
 	SCOREAPP.ranking = {
-		title: "Ranking pool A",
-		description: "Dit zijn de rankings voor pool A",
+		title: "Ranking pool C",
+		description: "Dit zijn de rankings voor pool C",
 		start: function() {
-			jx.load('https://api.leaguevine.com/v1/pools/19219/', function(data) {
+			jx.load('https://api.leaguevine.com/v1/pools/19221/', function(data) {
 				var data = JSON.parse(data);
-				console.log(data);
-				var directives = { //Verander de manier van data-binden
-				};	
-			Transparency.render(qwery('[data-route=ranking]')[0], data, directives);
-			},'text','get'); // Haal data op als text.
+			Transparency.render(qwery('[data-route=ranking]')[0], data);
+			},'text','get');
 		}
 	};
 
 	SCOREAPP.game = {
 		start: function() {
-			jx.load('https://api.leaguevine.com/v1/games/127162/', function(data) {
+			jx.load(SCOREAPP.schedule.this.resource_uri, function(data) {
 				var data = JSON.parse(data);
-				console.log(data);
-				var directives = { //Verander de manier van data-binden
-				};	
-			Transparency.render(qwery('[data-route=game]')[0], data, directives);
-			},'text','get'); // Haal data op als text.
+			Transparency.render(qwery('[data-route=game]')[0], data);
+			},'text','get');
 		}
 	};
-
 
 	//Controller Init
 	SCOREAPP.controller = {
